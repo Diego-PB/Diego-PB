@@ -4,7 +4,7 @@ I am a third-year student in the Computer Science Bachelor's program at [IUT of 
 Currently, I am working as a software developer apprentice, mainly using **C#** and **.NET** technologies.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/) [![Gmail Badge](https://img.shields.io/badge/-diego.penicaud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.penicaud@gmail.com)](mailto:diego.penicaud@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-penicaud-bernal)](https://www.linkedin.com/in/diego-penicaud-bernal/) [![Gmail Badge](https://img.shields.io/badge/-diego.penicaud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.penicaud@gmail.com)](mailto:diego.penicaud@gmail.com)
 
 ---
 
